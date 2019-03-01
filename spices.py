@@ -1,0 +1,4 @@
+SPICES = [
+	"Basil",
+	"Nutmeg"
+	]
