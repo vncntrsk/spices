@@ -1,4 +1,5 @@
 SPICES = [
 	"Basil",
-	"Nutmeg"
+	"Nutmeg",
+	"Fennel"
 	]
